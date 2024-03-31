@@ -11,15 +11,6 @@
 		<a href="#">
 			<img src="https://img.shields.io/badge/version-v1.0.0-blue" alt="Discord"/>
 		</a>
-		<!-- <a href="https://discord.gg/Xvqyc33KRR" target="_blank">
-			<img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/>
-		</a>
-		<a href="https://twitter.com/abdelmathin" target="_blank">
-			<img src="https://img.shields.io/badge/twitter-online-brightgreen.svg">
-		</a> -->
-		<a href="https://paypal.me/abdelmathin" target="_blank">
-			<img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/>
-		</a>
 </p>
 
 ## Features
